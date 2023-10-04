@@ -26,5 +26,5 @@ jobs:
           distribution: 'zulu' # See 'Supported distributions' for available options
           java-version: '17'
         
-      - name: schow java version
+      - name: show java version
         run: java -version
